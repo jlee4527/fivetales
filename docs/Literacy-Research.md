@@ -1,7 +1,7 @@
 # Pediatric Literacy Research: The Anchor Five
 
 **Status:** Draft / Initial Research  
-**Owner:** @Jae (Product Lead)  
+**Owner:** @Jae (Product Designer)  
 **Collaborators:** @Brendan (Visuals), @Terrance (AI)
 
 ## Goal
