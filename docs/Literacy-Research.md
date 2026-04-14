@@ -1,14 +1,14 @@
-# 📖 Pediatric Literacy Research: The Anchor Five
+# Pediatric Literacy Research: The Anchor Five
  
 **Created By:** @Jae (Project Lead) 
 **Collaborators:** @Brendan (Visuals), @Terrance (AI)
 
-## 🎯 Goal
+## Goal
 To bridge the gap between complex medical jargon and a child’s understanding using "Action-Oriented" plain language and fairy tale metaphors.
 
 ---
 
-## 🛡️ The "Anchor Five" Framework
+## The Five Example Framework
 These five examples serve as the "Ground Truth" for our AI's tone and visual style.
 
 | Medical Term | Plain Language Definition | Fairy Tale Metaphor | The Heroic Character |
@@ -20,7 +20,7 @@ These five examples serve as the "Ground Truth" for our AI's tone and visual sty
 
 ---
 
-## 🧠 Technical Implementation Logic
+## Technical Implementation Logic
 
 ### For the AI Architect (@Terrance)
 * **Tone Constraint:** Never use the word "war" or "battle" for Leukemia. Focus on "Balance" and "Learning."
