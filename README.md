@@ -1,8 +1,6 @@
 # fivetales
 A pediatric health literacy platform that transforms clinical medical data into a collection of five core heroic metaphors. Bridging the gap between diagnosis and understanding through AI-driven narrative reframing.
 
-The mission: Five Tales (Five Tales) empowers pediatric patients by translating clinical anxiety into narrative agency. We bridge the health literacy gap through an AI-driven framework that reframes complex medical diagnoses into five heroic, culturally resonant metaphors.
-
 Roles: 
 
 1. Jae | Product Lead & UX Architect
