@@ -10,7 +10,7 @@ To bridge the gap between complex medical jargon and a child’s understanding u
 
 ## The Five Example Framework
 These five examples serve as the "Ground Truth" for our AI's tone and visual style.
-
+| :--- | :--- | :--- | :--- |
 | Medical Term | Plain Language Definition | Fairy Tale Metaphor | The Heroic Character |
 | **1. Bacteria** | Tiny uninvited guests that try to take up space. | **The Grumble-Goblins** | Pesky, messy creatures that leave "litter" (toxins). |
 | **2. Vaccine** | A "practice lesson" for the body's defenders. | **The Shield Map** | A magical scroll that shows the Knights what Goblins look like. |
