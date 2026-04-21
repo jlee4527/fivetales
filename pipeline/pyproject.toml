@@ -1,0 +1,28 @@
+[project]
+name = "fivetales"
+version = "0.1.0"
+description = "Pediatric health literacy platform — ICD-10 codes to children's hero narratives"
+requires-python = ">=3.11"
+dependencies = [
+    "huggingface-hub>=1.11.0",
+    "json-repair>=0.59.4",
+    "jsonschema>=4.26.0",
+    "python-dotenv>=1.2.2",
+    "requests>=2.33.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+    "pytest-mock>=3.15.1",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/fivetales"]

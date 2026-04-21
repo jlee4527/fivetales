@@ -1,0 +1,72 @@
+[
+  {
+    "input_term": "Bacteria",
+    "input_definition": "Bacteria are tiny living things that can get inside your body. Most are harmless, but some can make you sick by leaving behind waste that upsets your body.",
+    "character_card": {
+      "character_name": "The Grumble-Goblins",
+      "origin_story": "The Grumble-Goblins sneak in when you touch something yucky. They love to make a mess and leave their crumbs everywhere. Your body's knights chase them right out!",
+      "superpowers": "They are so tiny they can hide almost anywhere",
+      "flaws": "They make you feel sick while your body works to clean them up",
+      "visual_description": "Tiny green creatures with messy hair and muddy feet, each carrying a little bag of trouble",
+      "tone": "playful",
+      "confidence": 0.95,
+      "notes": ""
+    }
+  },
+  {
+    "input_term": "Vaccine",
+    "input_definition": "A vaccine teaches your body how to recognize and stop a germ before it can make you sick. It gives your body a practice run so it is ready for the real thing.",
+    "character_card": {
+      "character_name": "The Shield Map",
+      "origin_story": "The Shield Map is a magic scroll that shows your body's knights what the bad guys look like. The knights study it hard. Now they are ready before the germs even arrive!",
+      "superpowers": "Teaches your body's knights to stop germs before they can cause any trouble",
+      "flaws": "The practice can make your arm feel a little sore for a day",
+      "visual_description": "A glowing golden scroll covered in tiny drawings of monsters, held up proudly by a brave knight in shining armor",
+      "tone": "brave",
+      "confidence": 0.95,
+      "notes": ""
+    }
+  },
+  {
+    "input_term": "Leukemia",
+    "input_definition": "Leukemia is when the body makes too many blood cells that do not work the right way. The extra cells crowd out the healthy ones. Doctors help the cells learn to work together again.",
+    "character_card": {
+      "character_name": "The Clumsy Knights",
+      "origin_story": "Inside your blood live knights who protect you every day. Sometimes some knights forget how to do their jobs and invite too many friends over. The doctor helps them learn to work as a team again.",
+      "superpowers": "Your knights are trying so hard and learning something new every day",
+      "flaws": "When too many knights crowd the halls, the healthy ones cannot do their jobs well",
+      "visual_description": "Friendly knights in wobbly armor with big kind eyes, tripping over their capes and bumping into each other with a smile",
+      "tone": "gentle",
+      "confidence": 0.9,
+      "notes": "Never use war or battle language. Focus on balance, learning, and teamwork."
+    }
+  },
+  {
+    "input_term": "Fever",
+    "input_definition": "A fever is when your body temperature goes higher than normal. Your body does this on purpose to make it too hot for germs to survive. It is your body working hard to protect you.",
+    "character_card": {
+      "character_name": "The Fire Dragon's Hug",
+      "origin_story": "When bad bugs sneak into your body, a friendly fire dragon wraps the whole kingdom in warmth. The heat is too much for the bugs. The dragon keeps hugging until every last bug is gone.",
+      "superpowers": "Can make your whole body warm enough to chase away germs that hate the heat",
+      "flaws": "The dragon's big warm hug makes you feel sweaty and tired while it works",
+      "visual_description": "A round glowing orange dragon with soft sleepy eyes, gently wrapping its warm wings around a cozy little castle",
+      "tone": "brave",
+      "confidence": 0.95,
+      "notes": ""
+    }
+  },
+  {
+    "input_term": "Influenza",
+    "input_definition": "The flu is caused by a virus that spreads easily from person to person. It makes your whole body feel tired, achy, and slow while your body works hard to sweep it out.",
+    "character_card": {
+      "character_name": "The Gray Mist",
+      "origin_story": "The Gray Mist is a heavy cloud that drifts through your body and makes everything feel slow. Your body's knights grab their brooms and sweep it out bit by bit. Every time the mist clears, your body gets a little stronger.",
+      "superpowers": "Gives your body's knights great practice — after sweeping the mist, they are ready for anything",
+      "flaws": "The mist makes you feel tired, achy, and sleepy until the storm passes",
+      "visual_description": "A soft gray-blue cloud drifting quietly through a calm kingdom, with tiny knights sweeping brooms to clear the way",
+      "tone": "curious",
+      "confidence": 0.9,
+      "notes": ""
+    }
+  }
+]

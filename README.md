@@ -1,3 +1,9 @@
+---
+noteId: "6f2568603d9511f1992167ecef4078b8"
+tags: []
+
+---
+
 # fivetales
 A pediatric health literacy platform that transforms clinical medical data into a collection of five core heroic metaphors. Bridging the gap between diagnosis and understanding through AI-driven narrative reframing.
 
