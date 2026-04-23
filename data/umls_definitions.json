@@ -1,0 +1,352 @@
+[
+  {
+    "ICD10_code": "A00",
+    "name": "Cholera",
+    "MSH_Definition": "An acute diarrheal disease endemic in India and Southeast Asia whose causative agent is VIBRIO CHOLERAE. This condition can lead to severe dehydration in a matter of hours unless quickly treated.",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": "Cholera is a bacterial infection that causes diarrhea. The cholera bacterium is usually found in water or food that has been contaminated by feces (poop). Cholera is rare in the US. You may get it if you travel to parts of the world with poor water and sewage treatment. Outbreaks can also happen after disasters. The disease is not likely to spread directly from person to person. Cholera infections are often mild. Some people don't have any symptoms. If you do get symptoms, they usually start 2 to 3 days after infection. The most common symptom is watery diarrhea. In some cases, the infection can be severe, causing lots of watery diarrhea, vomiting, and leg cramps. Because you quickly lose body fluids, you are at risk for dehydration and shock. Without treatment, you could die within hours. If you think that you might have cholera, you should get medical care right away. Doctors diagnose cholera with a stool sample or rectal swab. Treatment is the replacement of the fluid and salts that you lost through the diarrhea. This is usually with a rehydration solution that you drink. People with severe cases may need an I.V. to replace the fluids. Some of them may also need antibiotics. Most people who get fluid replacement right away will recover. There are vaccines to prevent cholera. One of them is available for adults in the U.S. Very few Americans need it, because most people do not visit areas that have an active cholera outbreak. There are also simple steps you can take to help to prevent cholera infection:  Use only bottled or purified water for drinking, washing dishes, making ice cubes, and brushing your teeth If you do use tap water, boil it or use iodine tablets Wash your hands often with soap and clean water Make sure that the cooked food you eat is fully cooked and served hot Avoid unwashed or unpeeled raw fruits and vegetables  Centers for Disease Control and Prevention"
+  },
+  {
+    "ICD10_code": "A01",
+    "name": "Typhoid and paratyphoid fevers",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A02",
+    "name": "Other salmonella infections",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A03",
+    "name": "Shigellosis",
+    "MSH_Definition": "",
+    "NCI_Definition": "An intestinal disease cause by Shigella bacteria.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A04",
+    "name": "Other bacterial intestinal infections",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A05",
+    "name": "Other bacterial foodborne intoxications, not elsewhere classified",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A06",
+    "name": "Amoebiasis",
+    "MSH_Definition": "Infection with any of various amebae. It is an asymptomatic carrier state in most individuals, but diseases ranging from chronic, mild diarrhea to fulminant dysentery may occur.",
+    "NCI_Definition": "A parasitic infectious disorder caused by amoebas. The parasite may cause colitis which is manifested with bloody diarrhea, abdominal pain, nausea and fever. In rare cases it may spread to the liver, brain and lungs.; A parasitic infection of the colon by Entamoeba histolytica. Signs and symptoms include cramping, diarrhea, bloody stools and fever. It can be treated with antibiotics.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A07",
+    "name": "Other protozoal intestinal diseases",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A08",
+    "name": "Viral and other specified intestinal infections",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A09",
+    "name": "Other gastroenteritis and colitis of infectious and unspecified origin",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A15",
+    "name": "Respiratory tuberculosis, bacteriologically and histologically confirmed",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A16",
+    "name": "Respiratory tuberculosis, not confirmed bacteriologically or histologically",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A17",
+    "name": "Tuberculosis of nervous system",
+    "MSH_Definition": "Tuberculosis of the brain, spinal cord, or meninges (TUBERCULOSIS, MENINGEAL), most often caused by MYCOBACTERIUM TUBERCULOSIS and rarely by MYCOBACTERIUM BOVIS. The infection may be limited to the nervous system or coexist in other organs (e.g., TUBERCULOSIS, PULMONARY). The organism tends to seed the meninges causing a diffuse meningitis and leads to the formation of TUBERCULOMA, which may occur within the brain, spinal cord, or perimeningeal spaces. Tuberculous involvement of the vertebral column (TUBERCULOSIS, SPINAL) may result in nerve root or spinal cord compression. (From Adams et al., Principles of Neurology, 6th ed, pp717-20)",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A18",
+    "name": "Tuberculosis of other organs",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A19",
+    "name": "Miliary tuberculosis",
+    "MSH_Definition": "An acute form of TUBERCULOSIS in which minute tubercles are formed in a number of organs of the body due to dissemination of the bacilli through the blood stream..",
+    "NCI_Definition": "Clinical disease resulting from hematogenous dissemination of Mycobacterium tuberculosis bacilli. Originally described by the appearance of millet seed-like granulomas in the lungs, its progression from sustained bacteremia to extrapulmonary involvement is suggestive of a poor prognosis.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A20",
+    "name": "Plague",
+    "MSH_Definition": "An acute infectious disease caused by YERSINIA PESTIS that affects humans, wild rodents, and their ectoparasites. This condition persists due to its firm entrenchment in sylvatic rodent-flea ecosystems throughout the world. Bubonic plague is the most common form.",
+    "NCI_Definition": "A Gram-negative bacterial infection caused by Yersinia pestis. It is usually transmitted to humans from bites of infected rodent fleas. It is manifested as a bubonic, septicemic, or pneumonic plague. In bubonic plague, the lymph nodes adjacent to the site of the skin bite are infected and enlarged. In septicemic plague, the infection spreads directly through the bloodstream. In pneumonic plague, the infection spreads to the lungs either following bubonic plague, or by inhalation of infective droplets. If untreated, it may lead to death.",
+    "MEDLINEPLUS_Definition": "Plague is an infection caused by the bacterium Yersinia pestis. The bacteria are found mainly in rats and in the fleas that feed on them. People and other animals can get plague from rat or flea bites. In the past, plague destroyed entire civilizations. Today plague is uncommon, due to better living conditions and antibiotics. There are three forms of plague:  Bubonic plague causes the tonsils, adenoids, spleen, and thymus to become inflamed. Symptoms include fever, aches, chills, and tender lymph glands. In septicemic plague, bacteria multiply in the blood. It causes fever, chills, shock, and bleeding under the skin or other organs. Pneumonic plague is the most serious form. Bacteria enter the lungs and cause pneumonia. People with the infection can spread this form to others. This type could be a bioterror agent.  Lab tests can diagnose plague. Treatment is a strong antibiotic. There is no vaccine."
+  },
+  {
+    "ICD10_code": "A21",
+    "name": "Tularaemia",
+    "MSH_Definition": "A plague-like disease of rodents, transmissible to man. It is caused by FRANCISELLA TULARENSIS and is characterized by fever, chills, headache, backache, and weakness.",
+    "NCI_Definition": "A serious Gram-negative bacterial infection caused by Francisella tularensis. It is transmitted to humans through bites from infected insects, inhaling airborne bacteria, handling infected animals, or consuming contaminated food or water. Signs and symptoms include skin ulcers, mouth sores, lymphadenopathy, sore throat, fever and pneumonia.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A22",
+    "name": "Anthrax",
+    "MSH_Definition": "An acute infection caused by the spore-forming bacteria BACILLUS ANTHRACIS. It commonly affects hoofed animals such as sheep and goats. Infection in humans often involves the skin (cutaneous anthrax), the lungs (inhalation anthrax), or the gastrointestinal tract. Anthrax is not contagious and can be treated with antibiotics.",
+    "NCI_Definition": "An infection caused by Bacillus anthracis bacteria. It may affect the lungs, gastrointestinal tract, or skin. Patients with lung infection present with fever, headaches, cough, chest pain and shortness of breath. Patients with gastrointestinal infection present with nausea, vomiting and bloody diarrhea. Patients with skin infection develop blisters and ulcers.",
+    "MEDLINEPLUS_Definition": "Anthrax is a disease caused by Bacillus anthracis, a germ that lives in soil. Many people know about it from the 2001 bioterror attacks. In the attacks, someone purposely spread anthrax through the U.S. mail. This killed five people and made 22 sick.  Anthrax is rare. It affects animals such as cattle, sheep, and goats more often than people. People can get anthrax from contact with infected animals, wool, meat, or hides. It can cause three forms of disease in people. They are:  Cutaneous, which affects the skin. People with cuts or open sores can get it if they touch the bacteria.   Inhalation, which affects the lungs. You can get this if you breathe in spores of the bacteria.   Gastrointestinal, which affects the digestive system. You can get it by eating infected meat.  Antibiotics often cure anthrax if it is diagnosed early. But many people don't know they have anthrax until it is too late to treat. A vaccine to prevent anthrax is available for people in the military and others at high risk. "
+  },
+  {
+    "ICD10_code": "A23",
+    "name": "Brucellosis",
+    "MSH_Definition": "Infection caused by bacteria of the genus BRUCELLA mainly involving the MONONUCLEAR PHAGOCYTE SYSTEM. This condition is characterized by fever, weakness, malaise, and weight loss.",
+    "NCI_Definition": "A gram negative bacterial infection caused by bacteria of the genus Brucella. Humans are infected by ingesting unpasteurized milk or meat from infected animals. Signs and symptoms include fevers, sweating, weakness, headache, muscle pain, arthritis and anemia.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A24",
+    "name": "Glanders and melioidosis",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A25",
+    "name": "Rat-bite fevers",
+    "MSH_Definition": "A syndrome characterized by recurring fever, rash, and arthralgias occurring days to weeks after a rat bite. The causative agents are either Streptobacillus moniliformis or Spirillum minus.",
+    "NCI_Definition": "An infectious disease that is caused transmitted by the bite of a rat. Two species of bacteria can cause the infection: Streptobacillus moniliformis and Spirillum minus.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A26",
+    "name": "Erysipeloid",
+    "MSH_Definition": "An infection caused by Erysipelothrix rhusiopathiae that is almost wholly restricted to persons who in their occupation handle infected fish, shellfish, poultry, or meat. Three forms of this condition exist: a mild localized form manifested by local swelling and redness of the skin; a diffuse form that might present with fever; and a rare systemic form associated with endocarditis.",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A27",
+    "name": "Leptospirosis",
+    "MSH_Definition": "Infections with bacteria of the genus LEPTOSPIRA.",
+    "NCI_Definition": "A contagious bacterial infection caused by spirochetes of the genus Leptospira. Humans are infected by contact with water and soil which have been contaminated with animal waste products. The signs and symptoms include an initial flu-like phase, followed by a second phase in which patients may develop meningitis, liver failure and renal failure.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A28",
+    "name": "Other zoonotic bacterial diseases, not elsewhere classified",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A30",
+    "name": "Leprosy [Hansen disease]",
+    "MSH_Definition": "A chronic granulomatous infection caused by MYCOBACTERIUM LEPRAE. The granulomatous lesions are manifested in the skin, the mucous membranes, and the peripheral nerves. Two polar or principal types are lepromatous and tuberculoid.",
+    "NCI_Definition": "A bacterial granulomatous infection caused by Mycobacterium leprae. It is a progressive disease affecting the skin, peripheral nerves, and limbs. If untreated, it causes permanent tissue damage leading to autoamputations.",
+    "MEDLINEPLUS_Definition": "Leprosy, also called Hansen disease, is a disorder known since ancient times. It is caused by bacteria called Mycobacterium leprae and is contagious, which means that it can be passed from person to person. It is usually contracted by breathing airborne droplets from affected individuals' coughs and sneezes, or by coming into contact with their nasal fluids. However, it is not highly transmissible, and approximately 95 percent of individuals who are exposed to Mycobacterium leprae never develop leprosy. The infection can be contracted at any age, and signs and symptoms can take anywhere from several months to 20 years to appear.~Leprosy affects the skin and the peripheral nerves, which connect the brain and spinal cord to muscles and to sensory cells that detect sensations such as touch, pain, and heat. Most affected individuals have areas of skin damage (cutaneous lesions) and problems with nerve function (peripheral neuropathy); however, the severity and extent of the problems vary widely. Leprosy occurs on a spectrum, in which the most severe form is called multibacillary or lepromatous, and the least severe form is called paucibacillary or tuberculoid. Patterns of signs and symptoms intermediate between these forms are sometimes called borderline forms.~Multibacillary leprosy usually involves a large number of cutaneous lesions, including both surface damage and lumps under the skin (nodules). The moist tissues that line body openings such as the eyelids and the inside of the nose and mouth (mucous membranes) can also be affected, which can lead to vision loss, destruction of nasal tissue, or impaired speech. Some affected individuals have damage to internal organs and tissues. The nerve damage that occurs in multibacillary leprosy often results in a lack of sensation in the hands and feet. Repeated injuries that go unnoticed and untreated because of this lack of sensation can lead to reabsorption of affected fingers or toes by the body, resulting in the shortening or loss of these digits.~Paucibacillary leprosy typically involves a small number of surface lesions on the skin. There is generally loss of sensation in these areas, but the other signs and symptoms that occur in multibacillary leprosy are less likely to develop in this form of the disorder.~In any form of leprosy, episodes called reactions can occur, and can lead to further nerve damage. These episodes can include reversal reactions, which involve pain and swelling of the skin lesions and the nerves in the hands and feet. People with the more severe forms of leprosy can develop a type of reaction called erythema nodosum leprosum (ENL). These episodes involve fever and painful skin nodules. In addition, painful, swollen nerves can occur. ENL can also lead to inflammation of the joints, eyes, and the testicles in men.~Leprosy has long been stigmatized because of its infectious nature and the disfigurement it can cause. This stigma can cause social and emotional problems for affected individuals. However, modern treatments can prevent leprosy from getting worse and spreading to other people. While the infection is curable, nerve and tissue damage that occurred before treatment is generally permanent."
+  },
+  {
+    "ICD10_code": "A31",
+    "name": "Infection due to other mycobacteria",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A32",
+    "name": "Listeriosis",
+    "MSH_Definition": "Infections with bacteria of the genus LISTERIA.",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A33",
+    "name": "Tetanus neonatorum",
+    "MSH_Definition": "",
+    "NCI_Definition": "A syndrome of generalized rigidity with muscle spasms and seizures in the neonatal period resulting from Clostridium tetani toxin production.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A34",
+    "name": "Obstetrical tetanus",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A35",
+    "name": "Other tetanus",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A36",
+    "name": "Diphtheria",
+    "MSH_Definition": "",
+    "NCI_Definition": "A Gram-positive bacterial infection caused by Corynebacterium diphtheriae. It usually involves the oral cavity, pharynx, and nasal cavity. Patients develop pseudomembranes in the affected areas and manifest signs and symptoms of an upper respiratory infection. The diphtheria toxin may cause myocarditis, polyneuritis, and other systemic effects.",
+    "MEDLINEPLUS_Definition": "Diphtheria is a serious bacterial infection. You can catch it from a person who has the infection and coughs or sneezes. You can also get infected by coming in contact with an object, such as a toy, that has bacteria on it. Diphtheria usually affects the nose and throat. Symptoms include: Sore throat Swollen glands in the neck Fever Weakness  Your doctor will diagnose it based on your signs and symptoms and a lab test. Getting treatment for diphtheria quickly is important. If your doctor suspects that you have it, you'll start treatment before the lab tests come back. Treatment is with antibiotics. The diphtheria, pertussis, and tetanus vaccine can prevent diphtheria, but its protection does not last forever. Children need another dose, or booster, at about age 12. Then, as adults, they should get a booster every 10 years. Diphtheria is very rare in the United States because of the vaccine. Centers for Disease Control and Prevention"
+  },
+  {
+    "ICD10_code": "A37",
+    "name": "Whooping cough",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": "What is whooping cough? Whooping cough, or pertussis, is a respiratory infection that can cause coughing fits. In serious cases, the coughing can become violent and rapid. You may cough so hard that you vomit. The name of the disease comes from the whooping noise you might make when you try to breathe in after coughing. Whooping cough is very contagious and can affect anyone. But it can be especially serious in babies who did not yet get the vaccine. About half of babies under age one who get whooping cough need care in the hospital. What causes whooping cough? Whooping cough is caused by a type of bacteria called Bordetella pertussis. It spreads from person to person. People who have pertussis usually spread it through coughing, sneezing, or breathing very close to someone. It can also sometimes be spread by touching an infected surface and then touching your nose or mouth. If you get pertussis, you are contagious for about 2 weeks after you start coughing. Antibiotics may shorten the time that you are contagious. What are the symptoms of whooping cough? The symptoms of pertussis usually start within 5 to 10 days after you are exposed. But sometimes you may not get symptoms until up to 3 weeks later. Whooping cough usually starts with cold-like symptoms. They may last for 1 to 2 weeks and can include: Runny nose Mild fever Mild, occasional cough  The early symptoms in babies can be different. They may only cough a little bit, or they may not cough at all. Babies may have apnea, which means that there is a pause in breathing. They may start to turn blue. If this happens, get medical care for your baby right away. As whopping cough gets worse, the symptoms may include: Fits of many, rapid coughs followed by a high-pitched \"whoop\" sound Vomiting during or after coughing fits Exhaustion after coughing fits  The coughing fits get worse and start happening more often, especially at night. You may have them for up to 10 weeks or more. Recovery from this can happen slowly. Your cough gets milder and happens less often. The coughing fits can come back if you have another respiratory infection, even months after you first got whooping cough. How is whooping cough diagnosed? Your health care provider may use many tools to diagnose whooping cough: A medical history, which includes asking about your symptoms A physical exam A lab test which involves taking a sample of mucus from the back of the throat through the nose. This may be done with a swab or syringe filled with saline. The sample is tested for the bacteria that causes whooping cough. Blood test Chest x-ray  What are the treatments for whooping cough? The treatment for whooping cough is usually antibiotics. Early treatment is very important. It may make your infection less serious and can also help prevent spreading the disease to others. Treatment after you have been sick for 3 weeks or longer may not help. The bacteria are gone from your body by then, even though you usually still have symptoms. This is because the bacteria have already done damage to your body. Whooping cough can sometimes be very serious and require treatment in the hospital. Can whooping cough be prevented? Vaccines are the best way to prevent whooping cough. There are two vaccines in the United States that can help prevent whooping cough: DTaP and Tdap. These vaccines also provide protection against tetanus and diphtheria. Babies and other people at high risk serious disease should be kept away from people who have whooping cough. Sometimes health care providers give antibiotics to family members of people who have had whooping cough or people who have been exposed to it. The antibiotics may prevent them from getting the disease. You may also help prevent the spread of whooping cough (and other respiratory diseases) by: Washing your hands often with soap and water. You can use an alcohol-based hand rub if soap and water are not available. Avoiding touching your face with unwashed hands Cleaning and disinfecting surfaces that you frequently touch, including toys Covering coughs and sneezes with a tissue or upper shirt sleeve, not hands Staying home when sick Avoiding close contact with people who are sick  Centers for Disease Control and Prevention"
+  },
+  {
+    "ICD10_code": "A38",
+    "name": "Scarlet fever",
+    "MSH_Definition": "Infection with group A streptococci that is characterized by tonsillitis and pharyngitis. An erythematous rash is commonly present.",
+    "NCI_Definition": "A streptococcal infection, mainly occurring among children, that is characterized by a red skin rash, sore throat, and fever.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A39",
+    "name": "Meningococcal infection",
+    "MSH_Definition": "Infections with bacteria of the species NEISSERIA MENINGITIDIS.",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": "What is meningococcal disease? Meningococcal disease is the name for any illness that is caused by Neisseria meningitidis bacteria (also called meningococcal bacteria). These illnesses are often severe and can sometimes be deadly. They include infections of the lining of the brain and spinal cord (meningitis) and in the bloodstream (sepsis). Vaccines can help prevent the disease. What causes meningococcal disease? Some people have Neisseria meningitidis, the bacteria that cause the disease, in the back of their nose and throat. They usually have the bacteria but don't get sick. This is called being a \"carrier.\" But sometimes the bacteria can spread to other parts of the body and cause meningococcal disease. The bacteria can spread from person to person through saliva (spit). It usually happens through close or lengthy contact with a person who has it. Close contact can include things like kissing and coughing. You cannot catch the bacteria through casual contact with someone who has the disease. For example, you cannot get it by breathing air where that person has been. Who is more likely to get meningococcal disease? Anyone can get meningococcal disease, but you are more likely to get it if someone you live with has it. You are also more likely to get it if you have direct contact with the saliva of someone who has it (like through kissing). Also, certain groups of people are more likely to get the disease. They include:  Children younger than 1 year old. Teens and young adults ages 16 through 23 years old. Adults 65 years and older. People with medical conditions that weaken their immune system, including those with HIV and certain rare immune system diseases. People who either don't have a spleen or have a spleen that does not function well. People who take complement inhibitor. These are immunotherapy medicines that are given to people with certain rare conditions. People who live in crowded settings, such as college dorms or military barracks. People who travel to areas where the disease is more common, such as certain parts of sub-Saharan Africa.  What are the symptoms of meningococcal disease? There are different types of meningococcal disease. The most common types are meningitis and septicemia. Both types are very serious and can be deadly in a matter of hours. Meningococcal meningitis is a meningococcal infection of the lining of the brain and spinal cord. The most common symptoms include:  Fever Headache Stiff neck  It can also cause symptoms such as:  Nausea and vomiting Photophobia (your eyes being more sensitive to light) Confusion  It may be hard to notice these symptoms in newborns and babies. They can also have different symptoms. They may:  Be slow or inactive Be irritable Vomit Feed poorly Have a bulging of the soft spot of their skull  Meningococcal septicemia is a meningococcal infection of the bloodstream. It's also called meningococcemia. When someone has this disease, the bacteria enter the bloodstream and multiply. This damages the walls of the blood vessels and causes bleeding into the skin and organs. The symptoms may include:  Fever and chills Fatigue Vomiting Cold hands and feet Severe aches or pain in the muscles, joints, chest, or abdomen (belly) Rapid breathing Diarrhea A dark purple rash (in the later stages of the disease)  Because it is so serious, you need to seek immediate medical attention if you or your child develops the symptoms of meningococcal disease. How is meningococcal disease diagnosed? The signs and symptoms of meningococcal disease are often similar to those of other illnesses. This can make it hard to diagnose. If your (or your child's) health care provider thinks that you or your child could have meningococcal disease, they will order tests that take samples of blood and/or cerebrospinal fluid (fluid near the spinal cord). They will send the samples to a lab for testing. The testing will include bacteria culture testing, which can identify the specific type of bacteria that is causing the infection. Knowing this can help the provider decide on the best treatment. What are the treatments for meningococcal disease? Certain antibiotics can treat meningococcal disease. It is important that treatment is started as soon as possible. So if the provider thinks you have meningococcal disease, they will give you antibiotics right away (before the test results come back). People with serious disease may need additional treatments, such as:  Breathing support Medicines to treat low blood pressure Surgery to remove dead tissue Wound care for parts of the body with damaged skin  Some people with meningococcal disease will have long-term health problems and disabilities. These may include:  Loss of limb(s) Deafness Nervous system problems Brain damage  Even with treatment, 10 to 15 in 100 people will die from the disease. Can meningococcal disease be prevented? The best way to prevent meningococcal disease is to get vaccinated. The U.S. Centers for Disease Control and Prevention (CDC) recommends meningococcal vaccination for:  All preteens and teens Children at higher risk for meningococcal disease Adults at higher risk for meningococcal disease  If you are a close contact of a person with meningococcal disease, you will likely be given antibiotics to prevent you from getting sick. This is called \"prophylaxis.\" Close contacts include people who are living together. They also include people who had direct contact with the saliva of a person who has the disease (such as from kissing). Although it's rare, you can get meningococcal disease more than once. Centers for Disease Control and Prevention"
+  },
+  {
+    "ICD10_code": "A40",
+    "name": "Streptococcal sepsis",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A41",
+    "name": "Other sepsis",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A42",
+    "name": "Actinomycosis",
+    "MSH_Definition": "Infections with bacteria of the genus ACTINOMYCES.",
+    "NCI_Definition": "An infectious process caused by bacteria of the Actinomyces species. It is characterized by the formation of purulent and painful abscesses in the mouth, lungs and gastrointestinal tract.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A43",
+    "name": "Nocardiosis",
+    "MSH_Definition": "Infections with bacteria of the genus NOCARDIA.",
+    "NCI_Definition": "A bacterial infection caused by members of the gram-positive bacilli genus Nocardia.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A44",
+    "name": "Bartonellosis",
+    "MSH_Definition": "Infections by the genus BARTONELLA. Bartonella bacilliformis can cause acute febrile anemia, designated Oroya fever, and a benign skin eruption, called verruga peruana. BARTONELLA QUINTANA causes TRENCH FEVER, while BARTONELLA HENSELAE is the etiologic agent of bacillary angiomatosis (ANGIOMATOSIS, BACILLARY) and is also one of the causes of CAT-SCRATCH DISEASE.",
+    "NCI_Definition": "A gram-negative bacterial infection caused by bacteria of the genus Bartonella. It is transmitted by ticks, flies and mosquitoes. Signs and symptoms include fever, headache, muscle pain, enlargement of the lymph nodes and anemia.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A46",
+    "name": "Erysipelas",
+    "MSH_Definition": "An acute infection of the skin caused by species of STREPTOCOCCUS. This disease most frequently affects infants, young children, and the elderly. Characteristics include pink-to-red lesions that spread rapidly and are warm to the touch. The commonest site of involvement is the face.",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A48",
+    "name": "Other bacterial diseases, not elsewhere classified",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A49",
+    "name": "Bacterial infection of unspecified site",
+    "MSH_Definition": "Infections by bacteria, general or unspecified.",
+    "NCI_Definition": "An acute infectious disorder that is caused by gram positive or gram negative bacteria; representative examples include pneumococcal, streptococcal, salmonella, and meningeal infections.",
+    "MEDLINEPLUS_Definition": "What are bacteria? Bacteria are tiny organisms (living things) that have only one cell. Under a microscope, they look like balls, rods, or spirals. They can be found almost everywhere on Earth. There are lots of bacteria in and on your body. In fact, your body has about 10 times more bacteria cells than human cells. There are many different types of bacteria. Most types don't make you sick. Some types are helpful. For example, \"good\" bacteria in your digestive system can help your body digest food and absorb vitamins and minerals. They can help protect you from getting sick. Bacteria are also used in making foods like yogurt and cheese. But some types of bacteria can cause an infection and make you sick. They are called infectious bacteria. These bacteria can reproduce quickly in your body. Many of them give off toxins (poisons) that can damage your cells and make you sick. Other types can move into and damage your tissues. A few examples of bacteria that cause infections include Streptococcus, Staphylococcus, and E. coli. How do bacterial infections spread? There are different ways that bacterial infections may spread:  Through droplets and particles that are breathed out by someone who has the infection. You might breathe in the droplets or particles, or they could land on your mouth, nose, or eyes. By touching surfaces or objects that have the bacteria on them and then touching your mouth, nose, or eyes. Through cuts, scrapes, and skin-to-skin contact with someone who has the infection. From the pregnant parent to the baby during pregnancy. Through contaminated food or water. By being bitten by an infected insect or animal. Through sexual contact (usually vaginal, anal and oral sex) with someone who has the infection.  What are the treatments for bacterial infections? Sometimes your immune system may be able to fight off a bacterial infection. But when you do need treatment, it will be with antibiotics. When you take antibiotics, follow the directions carefully. Each time you take them, there is a risk that the bacteria will become resistant to the effects of the antibiotics. This is called antibiotic resistance. When this happens, the bacteria are not killed, and they continue to grow. They can cause resistant infections, which can be difficult, and sometimes impossible, to treat. Can bacterial infections be prevented? You can help prevent some bacterial infections by:  Getting vaccines that protect against bacterial infections. Having good hygiene habits. These include washing your hands often and covering your mouth and nose when coughing or sneezing. Paying attention to food safety. Cleaning and disinfecting surfaces that your frequently touch. Preventing insect bites by using a U.S. Environmental Protection Agency (EPA)-registered insect repellent. when you go outdoors. If you travel to an area that has a high risk of diseases from insect bites, also wear long pants, shirts, and socks. Practicing safe sex. This means using a latex condom every time you have anal, vaginal, or oral sex. If your or your partner is allergic to latex, you can use polyurethane condoms. Avoiding close contact with people who are sick. "
+  },
+  {
+    "ICD10_code": "A50",
+    "name": "Congenital syphilis",
+    "MSH_Definition": "Syphilis acquired in utero and manifested by any of several characteristic tooth (Hutchinson's teeth) or bone malformations and by active mucocutaneous syphilis at birth or shortly thereafter. Ocular and neurologic changes may also occur.",
+    "NCI_Definition": "A life-threatening bacterial infection of the newborn caused by Treponema pallidum. It is transmitted to the infant from a mother with syphilis through the placenta during pregnancy. Signs and symptoms include irritability, fever, failure to thrive, saddle nose, cutaneous rash, and pneumonia.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A51",
+    "name": "Early syphilis",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A52",
+    "name": "Late syphilis",
+    "MSH_Definition": "",
+    "NCI_Definition": "Latent syphilis when infection was acquired more than twelve months previously.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A53",
+    "name": "Other and unspecified syphilis",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A54",
+    "name": "Gonococcal infection",
+    "MSH_Definition": "Acute infectious disease characterized by primary invasion of the urogenital tract. The etiologic agent, NEISSERIA GONORRHOEAE, was isolated by Neisser in 1879.",
+    "NCI_Definition": "A common sexually transmitted bacterial infection caused by Neisseria gonorrhoeae. It is transmitted through vaginal, oral, or anal intercourse. Infected individuals may be asymptomatic. Symptoms in males include burning sensation during urination, discharge from the penis, and painful swelling of the testes. Symptoms in females include painful urination, vaginal discharge, and vaginal bleeding between periods. If untreated, the infection may lead to pelvic inflammatory disease.; An infection that is caused by Gonococcus.",
+    "MEDLINEPLUS_Definition": "Gonorrhea is a sexually transmitted infection (STI). It is most common in young adults. The bacteria that cause gonorrhea can infect the genital tract, mouth, or anus. You can get gonorrhea during vaginal, oral, or anal sex with an infected partner. A pregnant woman can pass it to her baby during childbirth. Gonorrhea does not always cause symptoms. In men, gonorrhea can cause pain when urinating and discharge from the penis. If untreated, it can cause problems with the prostate and testicles. In women, the early symptoms of gonorrhea often are mild. Later, it can cause bleeding between periods, pain when urinating, and increased discharge from the vagina. If untreated, it can lead to pelvic inflammatory disease, which causes problems with pregnancy and infertility. Your health care provider will diagnose gonorrhea with lab tests. Treatment is with antibiotics. Treating gonorrhea is becoming more difficult because drug-resistant strains are increasing. Correct usage of latex condoms greatly reduces, but does not eliminate, the risk of catching or spreading gonorrhea. If your or your partner is allergic to latex, you can use polyurethane condoms. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex. Centers for Disease Control and Prevention"
+  },
+  {
+    "ICD10_code": "A55",
+    "name": "Chlamydial lymphogranuloma (venereum)",
+    "MSH_Definition": "Subacute inflammation of the inguinal lymph glands caused by certain immunotypes of CHLAMYDIA TRACHOMATIS. It is a sexually transmitted disease in the U.S. but is more widespread in developing countries. It is distinguished from granuloma venereum (see GRANULOMA INGUINALE), which is caused by Calymmatobacterium granulomatis.",
+    "NCI_Definition": "Infection with the organism Mycobacterium.",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A56",
+    "name": "Other sexually transmitted chlamydial diseases",
+    "MSH_Definition": "",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  },
+  {
+    "ICD10_code": "A57",
+    "name": "Chancroid",
+    "MSH_Definition": "Acute, localized autoinoculable infectious disease usually acquired through sexual contact. Caused by HAEMOPHILUS DUCREYI, it occurs endemically almost worldwide, especially in tropical and subtropical countries and more commonly in seaports and urban areas than in rural areas.",
+    "NCI_Definition": "",
+    "MEDLINEPLUS_Definition": ""
+  }
+]
